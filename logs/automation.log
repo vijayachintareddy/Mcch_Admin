@@ -1,0 +1,132 @@
+10:21:48.138 [main] INFO  testCases.TC_001_LoginPageTest -*** Starting Tc_001_LoginPage****
+10:21:48.558 [main] INFO  testCases.TC_001_LoginPageTest -Email Entered
+10:21:48.670 [main] INFO  testCases.TC_001_LoginPageTest -password Entered
+10:21:48.755 [main] INFO  testCases.TC_001_LoginPageTest -Clicked on login button
+10:21:52.976 [main] INFO  testCases.TC_001_LoginPageTest -*** Finished Tc_001_LoginPage  ****
+10:22:51.598 [main] INFO  testCases.TC_001_LoginPageTest -*** Starting Tc_001_LoginPage****
+10:22:51.868 [main] INFO  testCases.TC_001_LoginPageTest -Email Entered
+10:22:51.907 [main] INFO  testCases.TC_001_LoginPageTest -password Entered
+10:22:55.918 [main] INFO  testCases.TC_001_LoginPageTest -Clicked on login button
+10:22:55.989 [main] INFO  testCases.TC_001_LoginPageTest -*** Finished Tc_001_LoginPage  ****
+10:23:39.053 [main] INFO  testCases.TC_001_LoginPageTest -*** Starting Tc_001_LoginPage****
+10:23:39.366 [main] INFO  testCases.TC_001_LoginPageTest -Email Entered
+10:23:39.862 [main] INFO  testCases.TC_001_LoginPageTest -password Entered
+10:23:39.954 [main] INFO  testCases.TC_001_LoginPageTest -Clicked on login button
+10:23:44.864 [main] INFO  testCases.TC_001_LoginPageTest -*** Finished Tc_001_LoginPage  ****
+10:35:04.323 [main] INFO  testCases.TC_001_LoginPageTest -*** Starting Tc_001_LoginPage****
+10:35:04.933 [main] INFO  testCases.TC_001_LoginPageTest -Email Entered
+10:35:05.039 [main] INFO  testCases.TC_001_LoginPageTest -password Entered
+10:35:05.130 [main] INFO  testCases.TC_001_LoginPageTest -Clicked on login button
+10:35:09.098 [main] INFO  testCases.TC_001_LoginPageTest -*** Finished Tc_001_LoginPage  ****
+11:12:27.493 [main] INFO  testCases.TC_001_LoginPageTest -*** Starting Tc_001_LoginPage****
+11:12:27.798 [main] INFO  testCases.TC_001_LoginPageTest -Email Entered
+11:12:27.902 [main] INFO  testCases.TC_001_LoginPageTest -password Entered
+11:12:28.007 [main] INFO  testCases.TC_001_LoginPageTest -Clicked on login button
+11:12:36.775 [main] INFO  testCases.TC_001_LoginPageTest -*** Finished Tc_001_LoginPage  ****
+11:37:20.689 [main] INFO  testCases.TC_001_LoginPageTest -*** Starting Tc_001_LoginPage****
+11:37:21.015 [main] INFO  testCases.TC_001_LoginPageTest -Email Entered
+11:37:21.130 [main] INFO  testCases.TC_001_LoginPageTest -password Entered
+11:37:21.215 [main] INFO  testCases.TC_001_LoginPageTest -Clicked on login button
+11:37:26.348 [main] INFO  testCases.TC_001_LoginPageTest -*** Finished Tc_001_LoginPage  ****
+11:40:03.821 [main] INFO  testCases.TC_001_LoginPageTest -*** Starting Tc_001_LoginPage****
+11:40:04.158 [main] INFO  testCases.TC_001_LoginPageTest -Email Entered
+11:40:04.282 [main] INFO  testCases.TC_001_LoginPageTest -password Entered
+11:40:04.362 [main] INFO  testCases.TC_001_LoginPageTest -Clicked on login button
+18:34:21.926 [main] INFO  testCases.TC_003_LoginDDT -***** Starting TC_003_LoginDDT*******
+18:34:37.386 [main] INFO  testCases.TC_003_LoginDDT -***** Starting TC_003_LoginDDT*******
+18:34:47.587 [main] INFO  testCases.TC_003_LoginDDT -***** Starting TC_003_LoginDDT*******
+18:34:57.743 [main] INFO  testCases.TC_003_LoginDDT -***** Starting TC_003_LoginDDT*******
+18:35:07.947 [main] INFO  testCases.TC_003_LoginDDT -***** Starting TC_003_LoginDDT*******
+18:41:59.796 [main] INFO  testCases.TC_003_LoginDDT -***** Starting TC_003_LoginDDT*******
+18:43:22.818 [main] INFO  testCases.TC_003_LoginDDT -***** Starting TC_003_LoginDDT*******
+18:43:33.023 [main] INFO  testCases.TC_003_LoginDDT -***** Starting TC_003_LoginDDT*******
+18:43:43.252 [main] INFO  testCases.TC_003_LoginDDT -***** Starting TC_003_LoginDDT*******
+18:43:53.499 [main] INFO  testCases.TC_003_LoginDDT -***** Starting TC_003_LoginDDT*******
+18:53:48.829 [main] INFO  testCases.TC_002_LoginTest -**** Starting Tc_002_Login Test*****
+18:54:17.337 [main] INFO  testCases.TC_002_LoginTest -****Finished Tc_002_Login Test*****
+19:07:11.917 [main] INFO  testCases.TC_003_LoginDDT -***** Starting TC_003_LoginDDT*******
+19:08:07.084 [main] INFO  testCases.TC_003_LoginDDT -***** Starting TC_003_LoginDDT*******
+19:08:17.286 [main] INFO  testCases.TC_003_LoginDDT -***** Starting TC_003_LoginDDT*******
+19:08:27.467 [main] INFO  testCases.TC_003_LoginDDT -***** Starting TC_003_LoginDDT*******
+19:08:37.703 [main] INFO  testCases.TC_003_LoginDDT -***** Starting TC_003_LoginDDT*******
+18:41:24.868 [main] INFO  testCases.TC_003_LoginDDT -***** Starting TC_003_LoginDDT*******
+18:41:38.563 [main] INFO  testCases.TC_003_LoginDDT -***** Starting TC_003_LoginDDT*******
+18:41:48.748 [main] INFO  testCases.TC_003_LoginDDT -***** Starting TC_003_LoginDDT*******
+18:41:58.980 [main] INFO  testCases.TC_003_LoginDDT -***** Starting TC_003_LoginDDT*******
+18:42:09.163 [main] INFO  testCases.TC_003_LoginDDT -***** Starting TC_003_LoginDDT*******
+19:40:57.646 [main] INFO  testCases.TC_001_LoginPageTest -*** Starting Tc_001_LoginPage****
+19:40:57.994 [main] INFO  testCases.TC_001_LoginPageTest -Email Entered
+19:40:58.105 [main] INFO  testCases.TC_001_LoginPageTest -password Entered
+19:40:58.500 [main] INFO  testCases.TC_001_LoginPageTest -Clicked on login button
+19:41:14.819 [main] INFO  testCases.TC_002_LoginTest -**** Starting Tc_002_Login Test*****
+19:41:20.754 [main] INFO  testCases.TC_002_LoginTest -****Finished Tc_002_Login Test*****
+19:44:18.731 [main] INFO  testCases.TC_001_LoginPageTest -*** Starting Tc_001_LoginPage****
+19:44:19.047 [main] INFO  testCases.TC_001_LoginPageTest -Email Entered
+19:44:19.152 [main] INFO  testCases.TC_001_LoginPageTest -password Entered
+19:44:19.252 [main] INFO  testCases.TC_001_LoginPageTest -Clicked on login button
+19:44:31.134 [main] INFO  testCases.TC_002_LoginTest -**** Starting Tc_002_Login Test*****
+19:44:35.979 [main] INFO  testCases.TC_002_LoginTest -****Finished Tc_002_Login Test*****
+19:46:47.450 [main] INFO  testCases.TC_001_LoginPageTest -*** Starting Tc_001_LoginPage****
+19:46:48.095 [main] INFO  testCases.TC_001_LoginPageTest -Email Entered
+19:46:48.204 [main] INFO  testCases.TC_001_LoginPageTest -password Entered
+19:46:48.290 [main] INFO  testCases.TC_001_LoginPageTest -Clicked on login button
+19:47:02.144 [main] INFO  testCases.TC_002_LoginTest -**** Starting Tc_002_Login Test*****
+19:47:06.883 [main] INFO  testCases.TC_002_LoginTest -****Finished Tc_002_Login Test*****
+19:47:57.824 [main] INFO  testCases.TC_001_LoginPageTest -*** Starting Tc_001_LoginPage****
+19:47:58.423 [main] INFO  testCases.TC_001_LoginPageTest -Email Entered
+19:47:58.532 [main] INFO  testCases.TC_001_LoginPageTest -password Entered
+19:47:58.617 [main] INFO  testCases.TC_001_LoginPageTest -Clicked on login button
+19:48:01.587 [main] INFO  testCases.TC_001_LoginPageTest -*** Finished Tc_001_LoginPage  ****
+19:48:08.547 [main] INFO  testCases.TC_002_LoginTest -**** Starting Tc_002_Login Test*****
+19:48:14.364 [main] INFO  testCases.TC_002_LoginTest -****Finished Tc_002_Login Test*****
+20:22:20.670 [main] INFO  testCases.TC_001_LoginPageTest -*** Starting Tc_001_LoginPage****
+20:22:20.990 [main] INFO  testCases.TC_001_LoginPageTest -Email Entered
+20:22:21.364 [main] INFO  testCases.TC_001_LoginPageTest -password Entered
+20:22:21.445 [main] INFO  testCases.TC_001_LoginPageTest -Clicked on login button
+20:22:27.155 [main] INFO  testCases.TC_001_LoginPageTest -*** Finished Tc_001_LoginPage  ****
+20:22:48.354 [main] INFO  testCases.TC_002_LoginTest -**** Starting Tc_002_Login Test*****
+20:23:06.342 [main] INFO  testCases.TC_002_LoginTest -****Finished Tc_002_Login Test*****
+23:13:46.475 [main] INFO  testCases.TC_001_LoginPageTest -*** Starting Tc_001_LoginPage****
+23:13:46.787 [main] INFO  testCases.TC_001_LoginPageTest -Email Entered
+23:13:46.898 [main] INFO  testCases.TC_001_LoginPageTest -password Entered
+23:13:46.991 [main] INFO  testCases.TC_001_LoginPageTest -Clicked on login button
+23:14:13.481 [main] INFO  testCases.TC_001_LoginPageTest -*** Finished Tc_001_LoginPage  ****
+23:15:01.714 [main] INFO  testCases.TC_002_LoginTest -**** Starting Tc_002_Login Test*****
+23:15:38.378 [main] INFO  testCases.TC_002_LoginTest -****Finished Tc_002_Login Test*****
+00:53:28.580 [main] INFO  testCases.TC_001_LoginPageTest -*** Starting Tc_001_LoginPage****
+00:53:28.898 [main] INFO  testCases.TC_001_LoginPageTest -Email Entered
+00:53:29.010 [main] INFO  testCases.TC_001_LoginPageTest -password Entered
+00:53:29.096 [main] INFO  testCases.TC_001_LoginPageTest -Clicked on login button
+00:53:32.393 [main] INFO  testCases.TC_001_LoginPageTest -*** Finished Tc_001_LoginPage  ****
+00:53:38.959 [main] INFO  testCases.TC_002_LoginTest -**** Starting Tc_002_Login Test*****
+00:53:46.762 [main] INFO  testCases.TC_002_LoginTest -****Finished Tc_002_Login Test*****
+03:33:29.198 [TestNG-tests-1] INFO  testCases.TC_001_LoginPageTest -*** Starting Tc_001_LoginPage****
+03:33:29.198 [TestNG-tests-2] INFO  testCases.TC_001_LoginPageTest -*** Starting Tc_001_LoginPage****
+03:33:29.497 [TestNG-tests-2] INFO  testCases.TC_001_LoginPageTest -Email Entered
+03:33:29.601 [TestNG-tests-1] INFO  testCases.TC_001_LoginPageTest -Email Entered
+03:33:29.653 [TestNG-tests-2] INFO  testCases.TC_001_LoginPageTest -password Entered
+03:33:29.679 [TestNG-tests-1] INFO  testCases.TC_001_LoginPageTest -password Entered
+03:33:29.926 [TestNG-tests-2] INFO  testCases.TC_001_LoginPageTest -Clicked on login button
+03:33:30.147 [TestNG-tests-1] INFO  testCases.TC_001_LoginPageTest -Clicked on login button
+04:26:51.813 [TestNG-tests-2] INFO  testCases.TC_001_LoginPageTest -*** Starting Tc_001_LoginPage****
+04:26:52.121 [TestNG-tests-2] INFO  testCases.TC_001_LoginPageTest -Email Entered
+04:26:52.180 [TestNG-tests-2] INFO  testCases.TC_001_LoginPageTest -password Entered
+04:26:52.497 [TestNG-tests-2] INFO  testCases.TC_001_LoginPageTest -Clicked on login button
+04:27:02.735 [TestNG-tests-1] INFO  testCases.TC_001_LoginPageTest -*** Starting Tc_001_LoginPage****
+04:27:12.759 [TestNG-tests-1] ERROR testCases.TC_001_LoginPageTest -Test failed
+04:29:58.924 [TestNG-tests-2] INFO  testCases.TC_001_LoginPageTest -*** Starting Tc_001_LoginPage****
+04:29:58.924 [TestNG-tests-1] INFO  testCases.TC_001_LoginPageTest -*** Starting Tc_001_LoginPage****
+04:29:59.190 [TestNG-tests-1] INFO  testCases.TC_001_LoginPageTest -Email Entered
+04:29:59.298 [TestNG-tests-2] INFO  testCases.TC_001_LoginPageTest -Email Entered
+04:29:59.332 [TestNG-tests-1] INFO  testCases.TC_001_LoginPageTest -password Entered
+04:29:59.353 [TestNG-tests-2] INFO  testCases.TC_001_LoginPageTest -password Entered
+04:29:59.589 [TestNG-tests-1] INFO  testCases.TC_001_LoginPageTest -Clicked on login button
+04:29:59.810 [TestNG-tests-2] INFO  testCases.TC_001_LoginPageTest -Clicked on login button
+04:31:31.390 [TestNG-tests-1] INFO  testCases.TC_001_LoginPageTest -*** Starting Tc_001_LoginPage****
+04:31:31.390 [TestNG-tests-2] INFO  testCases.TC_001_LoginPageTest -*** Starting Tc_001_LoginPage****
+04:31:31.713 [TestNG-tests-2] INFO  testCases.TC_001_LoginPageTest -Email Entered
+04:31:31.841 [TestNG-tests-1] INFO  testCases.TC_001_LoginPageTest -Email Entered
+04:31:31.895 [TestNG-tests-2] INFO  testCases.TC_001_LoginPageTest -password Entered
+04:31:31.920 [TestNG-tests-1] INFO  testCases.TC_001_LoginPageTest -password Entered
+04:31:32.160 [TestNG-tests-2] INFO  testCases.TC_001_LoginPageTest -Clicked on login button
+04:31:32.381 [TestNG-tests-1] INFO  testCases.TC_001_LoginPageTest -Clicked on login button
