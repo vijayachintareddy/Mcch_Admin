@@ -130,3 +130,10 @@
 04:31:31.920 [TestNG-tests-1] INFO  testCases.TC_001_LoginPageTest -password Entered
 04:31:32.160 [TestNG-tests-2] INFO  testCases.TC_001_LoginPageTest -Clicked on login button
 04:31:32.381 [TestNG-tests-1] INFO  testCases.TC_001_LoginPageTest -Clicked on login button
+14:15:49.608 [main] INFO  testCases.TC_001_LoginPageTest -*** Starting Tc_001_LoginPage****
+14:15:49.966 [main] INFO  testCases.TC_001_LoginPageTest -Email Entered
+14:15:50.083 [main] INFO  testCases.TC_001_LoginPageTest -password Entered
+14:15:50.165 [main] INFO  testCases.TC_001_LoginPageTest -Clicked on login button
+14:15:58.686 [main] INFO  testCases.TC_001_LoginPageTest -*** Finished Tc_001_LoginPage  ****
+14:16:10.943 [main] INFO  testCases.TC_002_LoginTest -**** Starting Tc_002_Login Test*****
+14:16:18.095 [main] INFO  testCases.TC_002_LoginTest -****Finished Tc_002_Login Test*****
